@@ -1,2 +1,2 @@
-# agile-softaware
+# agile-software
 Homework 1 
