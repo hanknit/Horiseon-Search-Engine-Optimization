@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 01 HTML, CSS, and Git: Code Refactor
 
 ## Challenges in This Course
@@ -156,3 +157,7 @@ You are required to submit the following for review:
 
 ---
 © 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+=======
+# Horiseon Search Engine Optimization
+Homework 1 
+>>>>>>> f22a06670b11cc8169d8339652c291a17b2592b9
